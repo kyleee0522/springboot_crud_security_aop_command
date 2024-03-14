@@ -1,4 +1,4 @@
-package com.kt.edu.thirdproject.common.config;
+package com.kt.edu.thirdproject.common.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.security.servlet.PathRequest;
